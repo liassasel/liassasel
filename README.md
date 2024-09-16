@@ -45,7 +45,3 @@
 <img src="https://raw.githubusercontent.com/liassasel/liassasel/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<img src="https://raw.githubusercontent.com/liassasel/liassasel/output/snake.svg" alt="Snake animation" />
-
-###

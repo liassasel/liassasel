@@ -1,4 +1,4 @@
-<h2 align="center">Hi i'm liassasel 🐍</h2>
+<h2 align="center">Hi i'm liassasel. 🐍</h2>
 
 ###
 
